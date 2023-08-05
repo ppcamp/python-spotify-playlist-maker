@@ -3,6 +3,8 @@
 This repository contains a simple script that will read your local repository
 and then, it'll create playlists and assign your musics to them.
 
+> As a note, today (05/08/2023) we can use a website for this, see https://soundiiz.com/
+
 ```mermaid
 flowchart LR
     S[[Local Computer]] -- script reads --> Musics
